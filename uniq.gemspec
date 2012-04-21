@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.description = "Generate a unique token with Active Record."
   s.email = "akeel.q@cisinlabs.com"
   s.extra_rdoc_files = ["CHANGELOG", "lib/uniquify.rb", "README.rdoc"]
-  s.files = ["CHANGELOG", "init.rb", "lib/uniquify.rb", "Manifest", "Rakefile", "README.rdoc", "uniquify.gemspec"]
+  s.files = ["CHANGELOG", "init.rb", "lib/uniquify.rb", "Manifest", "Rakefile", "README.rdoc", "uniq.gemspec"]
   s.has_rdoc = true
   s.homepage = "https://github.com/akeelahmedqureshi/uniq"
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Uniq", "--main", "README.rdoc"]
